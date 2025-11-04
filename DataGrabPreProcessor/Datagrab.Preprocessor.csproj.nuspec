@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Datagrab.Preprocessor</id>
+    <version>1.0.9</version>
+    <authors>BOSCH</authors>
+    <owners>BOSCH</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains the needed libraries to pre process datagrab</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright BOSCH 2021</copyright>
+    <tags>Datagrab Preprocessor</tags>
+    <packageTypes>
+      <packageType name="Dependency" />
+    </packageTypes>
+  </metadata>
+</package>
